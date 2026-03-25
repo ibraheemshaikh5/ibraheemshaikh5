@@ -1,8 +1,8 @@
 ## Hi there, I'm Ibraheem 👋
 
-- 💪 I'm currently working as a SWE Intern at AfterQuery and building thinkex.app
-- 📝 I'm currently researching Prediction Models for Github OSS Abandonment
-- 💬 Ask me about cars, basketball, music, or good eats
+- 👀 I'm currently working as a SWE Intern at AfterQuery and building thinkex.app
+- 🕵🏼‍♂️ I'm currently researching Prediction Models for Github OSS Abandonment
+- 😋 Ask me about cars, basketball, music, or good eats
 
 <!--
 **ibraheemshaikh5/ibraheemshaikh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
