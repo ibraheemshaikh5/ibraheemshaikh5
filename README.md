@@ -1,7 +1,7 @@
-## Hi there, I'm Ibraheem 🪢
+## I'm Ibraheem 🪢
 
-- 👀 I'm currently working as a SWE Intern at AfterQuery and building thinkex.app
-- 🕵🏼‍♂️ I'm currently researching Prediction Models for Github OSS Abandonment
+- 👀 I'm a SWE Intern at AfterQuery and building thinkex.app
+- 🕵🏼‍♂️ I'm researching Prediction Models for Github OSS Abandonment
 - 😋 Ask me about cars, basketball, music, hiking, or good eats
 
 <!--
