@@ -1,6 +1,6 @@
 ## I'm Ibraheem 🪢
 
-- 👀 I'm a SWE Intern at AfterQuery and building thinkex.app
+- 👀 I'm previously a SWE Intern at AfterQuery and building thinkex.app
 - 🕵🏼‍♂️ Currently researching Prediction Models for Github OSS Abandonment
 - 😋 Ask me about cars, basketball, music, hiking, or good eats
 
